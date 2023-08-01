@@ -4,4 +4,4 @@ NOCV
 .. autosummary::
    :toctree: generated
 
-   nocv
+   lumache
