@@ -7,6 +7,27 @@ This is my personal collection of helpful tutorials and information about comput
 
    This project is under active development.
 
+
+-------------
+ Quick Links
+-------------
+
+.. panels::
+   :column: + text-center
+
+   .. image:: https://github.com/awvwgk/xtb-logo/raw/master/xtb.svg
+      :width: 75%
+      :alt: xtb
+
+   +++
+
+   .. link-button:: plots
+      :type: ref
+      :text: Documentation for xtb
+      :classes: btn-block stretched-link
+
+   ---
+
 Contents
 --------
 
