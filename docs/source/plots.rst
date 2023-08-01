@@ -41,7 +41,7 @@ TODO
    <details>
    <summary><a>General</a></summary>
 
-   .. code:: python
+.. code-block:: python
 
      from chimera import runCommand
      runCommand('preset apply pub 1')
@@ -67,7 +67,7 @@ TODO
    <details>
    <summary><a>Wagner Group</a></summary>
 
-   .. code:: python
+.. code:: python
 
  from chimera import runCommand
  runCommand('preset apply pub 1')
