@@ -1,7 +1,7 @@
 .. _plots:
 
 ----------------------------
- Visualization
+ Plots
 ----------------------------
 
 This chapter should provide some internal guidelines for plotting figures and data. 
