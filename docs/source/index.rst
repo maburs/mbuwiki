@@ -15,7 +15,7 @@ This is my personal collection of helpful tutorials and information about comput
 .. panels::
    :column: + text-center
 
-   .. image:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/M_circle.png
+   .. figure:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/M_circle.png
       :width: 75%
       :alt: xtb
 
