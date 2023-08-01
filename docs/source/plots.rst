@@ -57,7 +57,7 @@ TODO
      #runCommand('match #0 #1')
      #runCommand('transparency 35 #1')
 
-.. raw:: html
+
 
    </details>
 
@@ -85,7 +85,7 @@ TODO
  runCommand('select Cu')
  runCommand('vdwdefine +2.0 sel')
 
-.. raw:: HTML
+
 
    </details>
 
@@ -93,6 +93,6 @@ TODO
 <br>
 
 
-
+.. raw:: html
 
   
