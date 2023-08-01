@@ -31,6 +31,11 @@ Useful Chimera commands, that may be used to create nice and shiny figures of mo
   set silhouetteWidth 0.01
   bond sel
 
+Chimera presets
+========================
+
+TODO
+
 .. raw:: html
 
    <details>
@@ -54,5 +59,34 @@ Useful Chimera commands, that may be used to create nice and shiny figures of mo
 .. raw:: html
 
    </details>
+
+.. raw:: html
+
+   <details>
+   <summary><a>Wagner Group</a></summary>
+
+.. code-block:: python
+
+ from chimera import runCommand
+ runCommand('preset apply pub 1')
+ runCommand('represent bs')
+ runCommand('setattr g color black')
+ runCommand('color 0,0,1,1 Si')
+ runCommand('color 0,0,0,1 C')
+ runCommand('color 0.5,0.5,0,1 Cl')
+ runCommand('color 0.75,0.75,0.75,1 H')
+ runCommand('bondcolor 1,0.63,0,1')
+ runCommand('setattr m stickScale 0.2')
+ runCommand('setattr m ballScale 0.15')
+ runCommand('select Cu')
+ runCommand('vdwdefine +2.0 sel')
+
+.. raw:: HTML
+
+
+
+   </details>
+
+
 
   
