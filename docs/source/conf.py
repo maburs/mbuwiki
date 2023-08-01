@@ -35,7 +35,7 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 # -- Theme Options mbursch
-html_logo = "../figures/logo.png"
+html_logo = "../figures/M_circle.png"
 html_theme_options = {
     'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
     'analytics_anonymize_ip': False,
