@@ -1,7 +1,7 @@
 .. _nocv:
 
 ----------------------------
- Quickstart into Production
+ ETS-NOCV
 ----------------------------
 
 This chapter should serve as a quickstart tutorial guiding you through your first
@@ -19,5 +19,5 @@ There are four main run types in ``xtb``, most other run types are
 composite types that try to provide convenient combinations from
 those main run types.
 
-Singlepoint Calculations
+Visualization
 ========================
