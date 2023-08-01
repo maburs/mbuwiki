@@ -14,7 +14,13 @@ Contents
    :maxdepth: 4
    :caption: Visualization
 
-   nocv
    plots
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Analysis
+
+   nocv
+   
 
 
