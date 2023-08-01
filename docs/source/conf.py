@@ -20,12 +20,16 @@ extensions = [
     'sphinx_panels', #mbursch
 ]
 
-panels_add_bootstrap_css = False #mbursch
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_css_files = [ "custom.css", ]
+html_static_path = ['_static']
 
-intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-}
+#intersphinx_mapping = {
+#    'python': ('https://docs.python.org/3/', None),
+#    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+#}
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
