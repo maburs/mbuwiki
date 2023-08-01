@@ -21,3 +21,7 @@ those main run types.
 
 Visualization
 ========================
+
+.. tabbed:: inner region
+
+   .. figure:: ../figures/ubo_colors.png
