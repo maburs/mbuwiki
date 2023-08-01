@@ -22,4 +22,4 @@ those main run types.
 Visualization
 ========================
 
-.. image:: ../figures/unibonn_colors.png
+.. figure:: ../figures/unibonn_colors.png
