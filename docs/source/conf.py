@@ -10,6 +10,8 @@ release = '0.1'
 version = '0.1.0'
 
 # -- General configuration
+pip install sphinx-bootstrap-theme
+
 
 extensions = [
     'sphinx.ext.duration',
@@ -17,7 +19,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-#    'sphinx_design',
+    'sphinx_design',
 ]
 
 #myst_enable_extensions = ["colon_fence"]
