@@ -56,9 +56,10 @@ TODO
      #runCommand('match #0 #1')
      #runCommand('transparency 35 #1')
 
-.. raw:: HTML
+.. raw:: html
 
    </details>
+
 
 
 
