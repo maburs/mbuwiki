@@ -63,6 +63,8 @@ TODO
 
 |
 
+.. raw:: HTML
+
    <details>
    <summary><a>Wagner Group</a></summary>
 
