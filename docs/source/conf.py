@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'xtb doc'
-copyright = '2019-2023, Grimme group'
-author = 'Grimme group'
+project = 'MBU WIKI'
+copyright = '2023, Markus Bursch'
+author = 'Markus Bursch'
 
 # The full version, including alpha/beta/rc tags
 release = '2023'
