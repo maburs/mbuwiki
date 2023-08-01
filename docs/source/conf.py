@@ -17,10 +17,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'myst_parser',
-    'sphinx_design',
+#    'sphinx_design',
 ]
-myst_enable_extensions = ["colon_fence"]
+#myst_enable_extensions = ["colon_fence"]
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
