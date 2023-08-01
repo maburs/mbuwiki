@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   ETS-NOCV
+   nocv
    api
