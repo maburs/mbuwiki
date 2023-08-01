@@ -12,5 +12,6 @@ Contents
 
 .. toctree::
 
+   api
    nocv
    
