@@ -1,4 +1,4 @@
-.. _visualization:
+.. _plots:
 
 ----------------------------
  Visualization
