@@ -8,6 +8,28 @@ This is my personal collection of helpful tutorials and information about comput
    This project is under active development.
 
 
+.. panels::
+   :column: + text-center
+
+   .. image:: https://github.com/awvwgk/xtb-logo/raw/master/xtb.svg
+      :width: 75%
+      :alt: xtb
+
+   +++
+
+   .. link-button:: setup
+      :type: ref
+      :text: Documentation for xtb
+      :classes: btn-block stretched-link
+
+   ---
+
+   .. image:: https://github.com/grimme-lab/crest/raw/master/assets/crest.png
+      :width: 50%
+      :alt: CREST
+
+   +++
+
 Contents
 --------
 
