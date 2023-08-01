@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx_panels', #mbursch
+#    'sphinx_panels', #mbursch
 ]
 
 # Add any paths that contain custom static files (such as style sheets) here,
