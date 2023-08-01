@@ -15,5 +15,6 @@ Contents
    :caption: Tutorials
 
    nocv
+   visualization
 
 
