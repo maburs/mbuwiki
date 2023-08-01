@@ -7,17 +7,6 @@ This is my personal collection of helpful tutorials and information about comput
 
    This project is under active development.
 
-
-.. grid:: 2
-
-    .. grid-item-card::  Title 1
-
-        A
-
-    .. grid-item-card::  Title 2
-
-        B
-
 Contents
 --------
 
