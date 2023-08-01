@@ -11,7 +11,7 @@ This is my personal collection of helpful tutorials and information about comput
 .. panels::
    :column: + text-center
 
-   .. image:: https://github.com/awvwgk/xtb-logo/raw/master/xtb.svg
+   .. image:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/unibonn_colors.png
       :width: 75%
       :alt: xtb
 
@@ -24,7 +24,7 @@ This is my personal collection of helpful tutorials and information about comput
 
    ---
 
-   .. image:: https://github.com/grimme-lab/crest/raw/master/assets/crest.png
+   .. image:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/unibonn_colors.png
       :width: 50%
       :alt: CREST
 
