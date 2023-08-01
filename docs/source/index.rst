@@ -8,12 +8,15 @@ This is my personal collection of helpful tutorials and information about comput
    This project is under active development.
 
 
-.. grid::
-   :column: + text-center
+.. grid:: 2
 
-   .. image:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/unibonn_colors.png
-      :width: 75%
-      :alt: xtb
+    .. grid-item-card::  Title 1
+
+        A
+
+    .. grid-item-card::  Title 2
+
+        B
 
 Contents
 --------
