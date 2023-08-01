@@ -31,7 +31,6 @@ release = '2023'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "ablog",
     "sphinx_panels",
     "sphinx_copybutton",
     "sphinx_togglebutton",
@@ -67,5 +66,5 @@ html_css_files = [ "custom.css", ]
 html_static_path = ['_static']
 
 # other default
-master_doc = 'contents'
+master_doc = 'index'
 
