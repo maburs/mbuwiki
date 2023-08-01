@@ -20,7 +20,6 @@ extensions = [
 #    'sphinx_design',
 ]
 
-extensions = ["sphinx_design"]
 #myst_enable_extensions = ["colon_fence"]
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
