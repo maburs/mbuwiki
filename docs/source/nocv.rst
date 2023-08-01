@@ -19,7 +19,7 @@ There are four main run types in ``xtb``, most other run types are
 composite types that try to provide convenient combinations from
 those main run types.
 
-Visualization
+Deformation densities
 ========================
 
 
