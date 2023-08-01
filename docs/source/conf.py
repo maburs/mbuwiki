@@ -20,6 +20,8 @@ extensions = [
     'sphinx_panels', #mbursch
 ]
 
+panels_add_bootstrap_css = False #mbursch
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
