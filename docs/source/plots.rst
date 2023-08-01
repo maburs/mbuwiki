@@ -36,6 +36,7 @@ Chimera presets
 
 TODO
 
+
 .. raw:: html
 
    <details>
@@ -59,8 +60,6 @@ TODO
 .. raw:: html
 
    </details>
-
-
 
 
 .. raw:: html
@@ -87,6 +86,8 @@ TODO
 .. raw:: HTML
 
    </details>
+
+
 
 
 
