@@ -57,14 +57,9 @@ TODO
      #runCommand('match #0 #1')
      #runCommand('transparency 35 #1')
 
-
+.. raw:: html
 
    </details>
-
-<br>
-<br>
-
-.. raw:: html
 
    <details>
    <summary><a>Wagner Group</a></summary>
@@ -85,14 +80,12 @@ TODO
  runCommand('select Cu')
  runCommand('vdwdefine +2.0 sel')
 
-
+.. raw:: html
 
    </details>
 
-<br>
-<br>
 
 
-.. raw:: html
+
 
   
