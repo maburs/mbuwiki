@@ -12,9 +12,9 @@ Contents
 
 .. toctree::
    :maxdepth: 4
-   :caption: Tutorials
+   :caption: Visualization
 
    nocv
-   visualization
+   plots
 
 
