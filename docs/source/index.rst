@@ -28,6 +28,19 @@ This is my personal collection of helpful tutorials and information about comput
 
    ---
 
+   .. figure:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/M_circle.png
+      :width: 75%
+      :alt: xtb
+
+   +++
+
+   .. link-button:: plots
+      :type: ref
+      :text: Documentation for xtb
+      :classes: btn-block stretched-link
+
+   ---
+
 Contents
 --------
 
