@@ -8,27 +8,12 @@ This is my personal collection of helpful tutorials and information about comput
    This project is under active development.
 
 
-.. panels::
+.. grid::
    :column: + text-center
 
    .. image:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/unibonn_colors.png
       :width: 75%
       :alt: xtb
-
-   +++
-
-   .. link-button:: setup
-      :type: ref
-      :text: Documentation for xtb
-      :classes: btn-block stretched-link
-
-   ---
-
-   .. image:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/unibonn_colors.png
-      :width: 50%
-      :alt: CREST
-
-   +++
 
 Contents
 --------
