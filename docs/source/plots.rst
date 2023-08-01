@@ -32,7 +32,9 @@ Useful Chimera commands, that may be used to create nice and shiny figures of mo
   bond sel
 
 .. tabbed::
+
   .. code::
+
     from chimera import runCommand
     runCommand('preset apply pub 1')
     runCommand('represent bs')
