@@ -17,3 +17,7 @@ Contents
    nocv
 
 
+
+.. tabbed:: inner region
+
+   .. image:: figures/unibonn_colors.png
