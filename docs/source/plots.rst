@@ -36,6 +36,7 @@ Chimera presets
 
 TODO
 
+|
 **Chimera preset for general use:**
 
 .. raw:: html
@@ -62,6 +63,7 @@ TODO
 
    </details>
 
+|
 **Chimera preset using the color code of the Wagner group (Frankfurt):**
 
 .. raw:: HTML
