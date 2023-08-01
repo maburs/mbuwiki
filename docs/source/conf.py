@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'mbuwiki'
+project = 'MBU WIKI'
 copyright = '2023, Markus Bursch'
 author = 'Markus Bursch'
 
