@@ -41,7 +41,7 @@ TODO
    <details>
    <summary><a>General</a></summary>
 
-.. code-block:: python
+   .. code-block:: python
 
              from chimera import runCommand
              runCommand('preset apply pub 1')
@@ -60,12 +60,14 @@ TODO
 
    </details>
 
+
+
 .. raw:: html
 
    <details>
    <summary><a>Wagner Group</a></summary>
 
-.. code-block:: python
+   .. code-block:: python
 
  from chimera import runCommand
  runCommand('preset apply pub 1')
@@ -81,9 +83,7 @@ TODO
  runCommand('select Cu')
  runCommand('vdwdefine +2.0 sel')
 
-.. raw:: HTML
-
-
+.. raw:: html
 
    </details>
 
