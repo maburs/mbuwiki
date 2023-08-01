@@ -19,6 +19,8 @@ The following color code was used in the context of publications of the Universi
   :width: 300
   :alt: Uni Bonn colors
 
+|
+
 Chimera commands
 ========================
 
