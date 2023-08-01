@@ -24,4 +24,4 @@ Visualization
 
 .. tabbed:: inner region
 
-   .. figure:: ../figures/ubo_colors.png
+   .. figure:: ../figures/unibonn_colors.png
