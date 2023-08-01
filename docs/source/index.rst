@@ -8,39 +8,6 @@ This is my personal collection of helpful tutorials and information about comput
    This project is under active development.
 
 
--------------
- Quick Links
--------------
-
-.. panels::
-   :column: + text-center
-
-   .. figure:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/M_circle.png
-      :width: 75%
-      :alt: xtb
-
-   +++
-
-   .. link-button:: plots
-      :type: ref
-      :text: Documentation for xtb
-      :classes: btn-block stretched-link
-
-   ---
-
-   .. figure:: https://github.com/maburs/mbuwiki/blob/main/docs/figures/M_circle.png
-      :width: 75%
-      :alt: xtb
-
-   +++
-
-   .. link-button:: plots
-      :type: ref
-      :text: Documentation for xtb
-      :classes: btn-block stretched-link
-
-   ---
-
 Contents
 --------
 
